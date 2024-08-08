@@ -12,7 +12,7 @@
 - CompTia Security +
 - CompTia CySa +
 - Google Cloud Cybersecurity
-- Qualys Cloud, EDR, VMDR, Policy Compliance
+- Qualys Cloud Agent, EDR, VMDR, WAS, PCI Compliance
 
 <h2>📺 Popular YouTube Videos</h2>
 
