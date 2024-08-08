@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SIEM Build in Azure</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM Build using AzureVM, Sentinel, with LIVE ATTACK MAP](https://github.com/aghaz10/ActiveDirectoryTutorial)
   
 
 <h2>📺 Popular YouTube Videos</h2>
