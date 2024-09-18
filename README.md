@@ -4,7 +4,9 @@
 
 - <b>SIEM Build in Azure</b>
   - [SIEM Build using AzureVM, Sentinel, with LIVE ATTACK MAP](https://github.com/aghaz10/ActiveDirectoryTutorial)
-  
+
+- <b>Launch VPC in AWS</b>
+  - [Create a Virtual Private Cloud (VPC) with Subnet Using AWS](https://github.com/aghaz10/ActiveDirectoryTutorial)
 
 
 <h2>✅ Certifications:</h2>
